@@ -119,7 +119,7 @@ With the `Product`, `Cart`, and `Customer` classes in place, your online marketp
 
 ![Auth Class](./assets/Auth.png)
 
-1. In `Auth.js`, create a class called `Auth` using the class diagram above. Create a new class `Auth` with the following properties and methods:
+1. In `Auth.js`, create a class called `Auth` using the class diagram above. Create a new class `Auth` with the following properties and methods:cl
     - **Properties**
         - `customers`: an array that will store instances of the `Customer` class representing all registered customers. Initializes as an empty array.
     - **Methods**
